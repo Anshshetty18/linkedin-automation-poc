@@ -28,3 +28,9 @@ while still demonstrating how such a system would be structured in production.
 
 The application follows a **layered, modular architecture**:
 
+## Configuration
+
+Application settings are managed using a YAML configuration file located at:
+
+
+
