@@ -32,5 +32,16 @@ The application follows a **layered, modular architecture**:
 
 Application settings are managed using a YAML configuration file located at:
 
+## How to Run
+
+### Prerequisites
+- Go 1.20 or higher
+- Git
+
+### Clone the Repository
+```bash
+git clone https://github.com/<your-username>/LinkedIn-Automation-Assignment.git
+cd LinkedIn-Automation-Assignment
+
 
 
