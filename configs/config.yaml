@@ -1,0 +1,11 @@
+browser:
+  headless: true
+  timeout_seconds: 30
+
+limits:
+  daily_connections: 20
+  daily_messages: 15
+
+timing:
+  min_delay_ms: 300
+  max_delay_ms: 1200
